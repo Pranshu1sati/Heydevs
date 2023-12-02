@@ -1,4 +1,4 @@
-import Form from "./form"
+import Form from "./form.jsx"
 const page = () => {
   return (
     <div className="grid lg:min-h-screen lg:grid-cols-2">

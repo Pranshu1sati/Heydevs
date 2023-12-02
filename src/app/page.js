@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Container from './Components/FormComponents/utilities/Container'
-import Page from '../app/login/page'
+import Page from '../app/login/page.jsx'
 // import PhoneInput from "./Components/EmailInput/PhoneInput"
 export default function Home() {
   return (

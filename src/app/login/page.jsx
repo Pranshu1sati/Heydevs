@@ -1,4 +1,4 @@
-import Form from "./form";
+import Form from "./Form.jsx";
 import Link from 'next/link'
 
 const page = () => {
